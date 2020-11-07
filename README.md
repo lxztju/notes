@@ -3,60 +3,56 @@
 
 
 
-## 1. [c++学习](https://github.com/lxztju/notes/tree/master/c%2B%2B学习)
+## 一、深度学习
+
+### 1. [目标检测](https://github.com/lxztju/notes/tree/master/目标检测)
+
+### 2. [语义分割](https://github.com/lxztju/notes/tree/master/语义分割)
+
+
+### 3. [domain adaptation](https://github.com/lxztju/notes/tree/master/domain%20adaptation)
 
 
 
 
-## 2. [domain adaptation](https://github.com/lxztju/notes/tree/master/domain%20adaptation)
+### 4. [弱监督学习](https://github.com/lxztju/notes/tree/master/弱监督学习)
+
+### 5. [深度学习实践](https://github.com/lxztju/notes/tree/master/深度学习实践)
+
+
+
+## 二、机器学习
+
+### 1. [机器学习](https://github.com/lxztju/notes/tree/master/机器学习)
 
 
 
 
-## 3. [linux使用](https://github.com/lxztju/notes/tree/master/linux使用)
-
-
-
-
-
-## 4. [python常用技巧](https://github.com/lxztju/notes/tree/master/python常用技巧)
-
-
-
-## 5. [弱监督学习](https://github.com/lxztju/notes/tree/master/弱监督学习)
-
-
-
-
-
-## 6. [机器学习](https://github.com/lxztju/notes/tree/master/机器学习)
-
-
-
-
-
-## 7. [深度学习实践](https://github.com/lxztju/notes/tree/master/深度学习实践)
-
- 
+### 2. [纯python实现经典机器学习算法](https://github.com/lxztju/notes/tree/master/纯python实现经典机器学习算法)
 
 
 
 
 
 
-## 8. [目标检测](https://github.com/lxztju/notes/tree/master/目标检测)
+
+
+## 三、编程
+
+### 1. [c++学习](https://github.com/lxztju/notes/tree/master/c%2B%2B学习)
+
+### 2. [python常用技巧](https://github.com/lxztju/notes/tree/master/python常用技巧)
+
+
+### 3. [linux使用](https://github.com/lxztju/notes/tree/master/linux使用)
 
 
 
-## 9. [纯python实现经典机器学习算法](https://github.com/lxztju/notes/tree/master/纯python实现经典机器学习算法)
+## 四、其他文章
 
 
 
-
-
-## 10. [雷锋字幕组翻译文章](https://github.com/lxztju/notes/tree/master/雷锋字幕组翻译文章)
-
-
+### 1. [雷锋字幕组翻译文章](https://github.com/lxztju/notes/tree/master/雷锋字幕组翻译文章)
 
 
 
