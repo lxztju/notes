@@ -8,7 +8,7 @@
 
 
 
-## 2. [domain adaptation](https://github.com/lxztju/notes/tree/master/domain adaptation)
+## 2. [domain adaptation](https://github.com/lxztju/notes/tree/master/domain%20adaptation)
 
 
 
