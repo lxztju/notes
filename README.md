@@ -13,13 +13,10 @@
 ### 3. [domain adaptation](https://github.com/lxztju/notes/tree/master/domain%20adaptation)
 
 
-
-
 ### 4. [弱监督学习](https://github.com/lxztju/notes/tree/master/弱监督学习)
 
 ### 5. [深度学习实践](https://github.com/lxztju/notes/tree/master/深度学习实践)
-
-
+#### 5.1 [mmdetection](https://github.com/lxztju/notes/tree/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5/%E5%B0%8F%E5%93%B2AI%E5%AD%A6mmdetection)
 
 ## 二、机器学习
 
@@ -29,10 +26,6 @@
 
 
 ### 2. [纯python实现经典机器学习算法](https://github.com/lxztju/notes/tree/master/纯python实现经典机器学习算法)
-
-
-
-
 
 
 
