@@ -57,7 +57,11 @@
 
 
 
-更多信息关注知乎：[知乎https://www.zhihu.com/people/lxztju/columns](https://www.zhihu.com/people/lxztju/columns)
+更多信息请关注:
+
+csdn: [csdn博客](https://blog.csdn.net/lxztju)
+
+知乎：[https://www.zhihu.com/people/lxztju/columns](https://www.zhihu.com/people/lxztju/columns)
 
 AI研习社专栏：[小哲AI](https://www.yanxishe.com/column/109)
 
